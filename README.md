@@ -17,5 +17,4 @@ As demais classes descrevem a adição, remoção, lista, modificação de cada 
 
 Além disso o diagrama que descreve o sistema de entidades é esse: 
  
-SIm
 ![image](https://user-images.githubusercontent.com/101835127/196001090-5c97b32d-15e6-4bf7-bfcd-d837b91dd122.png)
